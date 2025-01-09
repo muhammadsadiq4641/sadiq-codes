@@ -8,8 +8,13 @@ const Home: React.FC = () => {
     <>
       <div className="h-screen w-screen bg-black flex flex-col items-center justify-center gap-4">
         <Link href="/text-reveal">
-          <button className="px-10 py-4 rounded-lg bg-blue-400 text-gray-200">
+          <button className="px-10 py-4 rounded-lg bg-blue-500 text-gray-200 font-semibold">
             Text reveal animation
+          </button>
+        </Link>
+        <Link href="/verticle-navbar">
+          <button className="px-10 py-4 rounded-lg bg-blue-500 text-gray-200 font-semibold">
+            Verticle Navbar
           </button>
         </Link>
       </div>
