@@ -30,6 +30,7 @@
     "jose": "^5.2.4",
     "jsonwebtoken": "^9.0.2",
     "lucide-react": "^0.445.0",
+    "mdb-react-ui-kit": "^9.0.0",
     "next": "14.2.8",
     "papaparse": "^5.4.1",
     "path": "^0.12.7",

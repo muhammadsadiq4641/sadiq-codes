@@ -14,6 +14,11 @@ const Page = () => {
           hacking text animation
         </button>
       </Link>
+      <Link href="/shine-txt-animation">
+        <button className="w-[300px] uppercase h-[70px] text-white bg-gray-600">
+          Shining animation
+        </button>
+      </Link>
     </div>
   );
 };
