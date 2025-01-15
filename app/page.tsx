@@ -7,9 +7,9 @@ const Home: React.FC = () => {
   return (
     <>
       <div className="h-screen w-screen bg-black flex flex-col items-center justify-center gap-4">
-        <Link href="/text-reveal">
+        <Link href="/text-animations">
           <button className="px-10 py-4 rounded-lg bg-blue-500 text-gray-200 font-semibold">
-            Text reveal animation
+            text animation
           </button>
         </Link>
         <Link href="/verticle-navbar">
