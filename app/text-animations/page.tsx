@@ -19,6 +19,11 @@ const Page = () => {
           Shining animation
         </button>
       </Link>
+      <Link href="/number-count">
+        <button className="w-[300px] uppercase h-[70px] text-white bg-gray-600">
+          number counter
+        </button>
+      </Link>
     </div>
   );
 };
