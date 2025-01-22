@@ -22,6 +22,11 @@ const Home: React.FC = () => {
             Scroll animations
           </button>
         </Link>
+        <Link href="/hover-animation">
+          <button className="px-10 py-4 rounded-lg bg-blue-500 text-gray-200 font-semibold">
+            hover card animation
+          </button>
+        </Link>
       </div>
     </>
   );
