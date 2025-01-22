@@ -45,3 +45,10 @@ h1:hover {
     background-position: 600px;
   }
 }
+
+.txt-blue-gradient {
+  background: var(--Linear, linear-gradient(180deg, #008fff 0%, #00b8d9 100%));
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}

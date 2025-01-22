@@ -17,6 +17,11 @@ const Home: React.FC = () => {
             Verticle Navbar
           </button>
         </Link>
+        <Link href="/scroll-animations">
+          <button className="px-10 py-4 rounded-lg bg-blue-500 text-gray-200 font-semibold">
+            Scroll animations
+          </button>
+        </Link>
       </div>
     </>
   );
