@@ -7,7 +7,7 @@ const NumberCounter: React.FC = () => {
   const rounded = useTransform(count, Math.round);
 
   useEffect(() => {
-    const animation = animate(count, 50, {
+    const animation = animate(count, 5, {
       duration: 2,
     });
 
